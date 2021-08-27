@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-hi lam comming :)
-oh
+Hello i want learn codeing :)
 Use the right arrow to begin!
